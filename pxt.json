@@ -9,6 +9,7 @@
     "files": [
         "maqueen.ts",
         "enums.d.ts",
+        "shims.d.ts",
         "maqueenIR.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
